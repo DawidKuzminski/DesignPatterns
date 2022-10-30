@@ -1,0 +1,15 @@
+D:\PROJECTS\CreationalDesignPattern-Singleton\bin\Debug\net6.0\CreationalDesignPattern-Singleton.exe
+D:\PROJECTS\CreationalDesignPattern-Singleton\bin\Debug\net6.0\CreationalDesignPattern-Singleton.deps.json
+D:\PROJECTS\CreationalDesignPattern-Singleton\bin\Debug\net6.0\CreationalDesignPattern-Singleton.runtimeconfig.json
+D:\PROJECTS\CreationalDesignPattern-Singleton\bin\Debug\net6.0\CreationalDesignPattern-Singleton.dll
+D:\PROJECTS\CreationalDesignPattern-Singleton\bin\Debug\net6.0\CreationalDesignPattern-Singleton.pdb
+D:\PROJECTS\CreationalDesignPattern-Singleton\obj\Debug\net6.0\CreationalDesignPattern-Singleton.csproj.AssemblyReference.cache
+D:\PROJECTS\CreationalDesignPattern-Singleton\obj\Debug\net6.0\CreationalDesignPattern-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\CreationalDesignPattern-Singleton\obj\Debug\net6.0\CreationalDesignPattern-Singleton.AssemblyInfoInputs.cache
+D:\PROJECTS\CreationalDesignPattern-Singleton\obj\Debug\net6.0\CreationalDesignPattern-Singleton.AssemblyInfo.cs
+D:\PROJECTS\CreationalDesignPattern-Singleton\obj\Debug\net6.0\CreationalDesignPattern-Singleton.csproj.CoreCompileInputs.cache
+D:\PROJECTS\CreationalDesignPattern-Singleton\obj\Debug\net6.0\CreationalDesignPattern-Singleton.dll
+D:\PROJECTS\CreationalDesignPattern-Singleton\obj\Debug\net6.0\refint\CreationalDesignPattern-Singleton.dll
+D:\PROJECTS\CreationalDesignPattern-Singleton\obj\Debug\net6.0\CreationalDesignPattern-Singleton.pdb
+D:\PROJECTS\CreationalDesignPattern-Singleton\obj\Debug\net6.0\CreationalDesignPattern-Singleton.genruntimeconfig.cache
+D:\PROJECTS\CreationalDesignPattern-Singleton\obj\Debug\net6.0\ref\CreationalDesignPattern-Singleton.dll
