@@ -1,0 +1,15 @@
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\bin\Debug\net6.0\CreationalDesignPattern-AbstractFactory.exe
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\bin\Debug\net6.0\CreationalDesignPattern-AbstractFactory.deps.json
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\bin\Debug\net6.0\CreationalDesignPattern-AbstractFactory.runtimeconfig.json
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\bin\Debug\net6.0\CreationalDesignPattern-AbstractFactory.dll
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\bin\Debug\net6.0\CreationalDesignPattern-AbstractFactory.pdb
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\obj\Debug\net6.0\CreationalDesignPattern-AbstractFactory.csproj.AssemblyReference.cache
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\obj\Debug\net6.0\CreationalDesignPattern-AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\obj\Debug\net6.0\CreationalDesignPattern-AbstractFactory.AssemblyInfoInputs.cache
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\obj\Debug\net6.0\CreationalDesignPattern-AbstractFactory.AssemblyInfo.cs
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\obj\Debug\net6.0\CreationalDesignPattern-AbstractFactory.csproj.CoreCompileInputs.cache
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\obj\Debug\net6.0\CreationalDesignPattern-AbstractFactory.dll
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\obj\Debug\net6.0\refint\CreationalDesignPattern-AbstractFactory.dll
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\obj\Debug\net6.0\CreationalDesignPattern-AbstractFactory.pdb
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\obj\Debug\net6.0\CreationalDesignPattern-AbstractFactory.genruntimeconfig.cache
+D:\PROJECTS\DesignPatterns\CreationalDesignPattern-AbstractFactory\obj\Debug\net6.0\ref\CreationalDesignPattern-AbstractFactory.dll
