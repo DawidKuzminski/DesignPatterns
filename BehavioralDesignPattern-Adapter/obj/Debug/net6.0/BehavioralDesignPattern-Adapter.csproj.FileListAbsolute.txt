@@ -1,0 +1,15 @@
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\bin\Debug\net6.0\BehavioralDesignPattern-Adapter.exe
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\bin\Debug\net6.0\BehavioralDesignPattern-Adapter.deps.json
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\bin\Debug\net6.0\BehavioralDesignPattern-Adapter.runtimeconfig.json
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\bin\Debug\net6.0\BehavioralDesignPattern-Adapter.dll
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\bin\Debug\net6.0\BehavioralDesignPattern-Adapter.pdb
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\obj\Debug\net6.0\BehavioralDesignPattern-Adapter.csproj.AssemblyReference.cache
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\obj\Debug\net6.0\BehavioralDesignPattern-Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\obj\Debug\net6.0\BehavioralDesignPattern-Adapter.AssemblyInfoInputs.cache
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\obj\Debug\net6.0\BehavioralDesignPattern-Adapter.AssemblyInfo.cs
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\obj\Debug\net6.0\BehavioralDesignPattern-Adapter.csproj.CoreCompileInputs.cache
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\obj\Debug\net6.0\BehavioralDesignPattern-Adapter.dll
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\obj\Debug\net6.0\refint\BehavioralDesignPattern-Adapter.dll
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\obj\Debug\net6.0\BehavioralDesignPattern-Adapter.pdb
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\obj\Debug\net6.0\BehavioralDesignPattern-Adapter.genruntimeconfig.cache
+D:\PROJECTS\DesignPatterns\BehavioralDesignPattern-Adapter\obj\Debug\net6.0\ref\BehavioralDesignPattern-Adapter.dll
