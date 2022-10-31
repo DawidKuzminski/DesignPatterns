@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rw6Ck7w9jqL8Aj49tQZvKJzdY8di2cn5qUpb6/wLRzUi7EUD0mw7PzXv9p2C7ZIUJNbkyP3vAJCQynhZ7NuRaw==",
+  "dgSpecHash": "2R7Zahp2eCJfTuI3iMZRN4LJmDXtPobGVgRO2Hx3uo2xqhO5ZY6sJMTufk2zDtWLnGVEJQa8qWCVp2rdW9ySrQ==",
   "success": true,
-  "projectFilePath": "D:\\PROJECTS\\DesignPatterns\\BehavioralDesignPattern-Adapter\\BehavioralDesignPattern-Adapter.csproj",
+  "projectFilePath": "D:\\PROJECTS\\DesignPatterns\\BehavioralDesignPattern-Adapter\\StructuralDesignPattern-Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

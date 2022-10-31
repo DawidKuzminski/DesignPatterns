@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECTS\\DesignPatterns\\BehavioralDesignPattern-Adapter\\BehavioralDesignPattern-Adapter.csproj",
-      "projectName": "BehavioralDesignPattern-Adapter",
-      "projectPath": "D:\\PROJECTS\\DesignPatterns\\BehavioralDesignPattern-Adapter\\BehavioralDesignPattern-Adapter.csproj",
+      "projectUniqueName": "D:\\PROJECTS\\DesignPatterns\\BehavioralDesignPattern-Adapter\\StructuralDesignPattern-Adapter.csproj",
+      "projectName": "StructuralDesignPattern-Adapter",
+      "projectPath": "D:\\PROJECTS\\DesignPatterns\\BehavioralDesignPattern-Adapter\\StructuralDesignPattern-Adapter.csproj",
       "packagesPath": "C:\\Users\\Daski\\.nuget\\packages\\",
       "outputPath": "D:\\PROJECTS\\DesignPatterns\\BehavioralDesignPattern-Adapter\\obj\\",
       "projectStyle": "PackageReference",

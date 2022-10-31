@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using BehavioralDesignPattern_Adapter;
-using BehavioralDesignPattern_Adapter.InternalObjects;
+using StructuralDesignPattern_Adapter;
+using StructuralDesignPattern_Adapter.InternalObjects;
 
 Console.WriteLine("Hello, World!");
 

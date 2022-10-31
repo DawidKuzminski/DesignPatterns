@@ -1,4 +1,4 @@
-﻿namespace BehavioralDesignPattern_Adapter.ExternalObjects;
+﻿namespace StructuralDesignPattern_Adapter.ExternalObjects;
 public class PDFGenerator
 {
 	public string GeneratePDF(string content, string name, string size)

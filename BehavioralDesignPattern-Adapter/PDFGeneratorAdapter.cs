@@ -1,7 +1,7 @@
-﻿using BehavioralDesignPattern_Adapter.Abstraction;
-using BehavioralDesignPattern_Adapter.ExternalObjects;
+﻿using StructuralDesignPattern_Adapter.Abstraction;
+using StructuralDesignPattern_Adapter.ExternalObjects;
 
-namespace BehavioralDesignPattern_Adapter;
+namespace StructuralDesignPattern_Adapter;
 internal class PDFGeneratorAdapter : IFileGenerator
 {
 	public string GenerateFile(string fileName, string body, string fileExtension)
