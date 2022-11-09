@@ -11,3 +11,4 @@ Dwa główne etapy wzorca Singleton to:
 - Stworzenie statycznej metody kreacyjnej, która pełni rolę konstruktora obiektu oraz zapewnie warswtę bezpieczeństwa, której zadaniem jest pilnowanie aby np. dwa wątki nie próbowały wytworzyć instancji w tym samym czasie.
 
 <h2>Struktura</h2>
+![Singleton-uml drawio](https://user-images.githubusercontent.com/17592328/200942295-cd5341ae-c8a8-4b46-afec-b18273a16abe.svg)
