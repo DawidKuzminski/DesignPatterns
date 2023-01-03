@@ -1,4 +1,4 @@
-<h1>Creational design pattern - Singleton</h1>
+<h1>Kreacyjny wzorzec projektowy - Singleton</h1>
 
 <h2>Cel</h2>
 Singleton jest kreacyjnym wzorcem projektowym, którego celem jest ograniczenie tworzenia obiektów danej klasy do jednej instancji oraz zapewnienie globalnego dostepu do stworzonego obiektu. Czasami przystosowuję się jego implementację do przypadku wprowadzenia pewnej maksymalnej ilości obiektów danego typu.
