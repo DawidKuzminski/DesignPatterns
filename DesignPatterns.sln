@@ -18,7 +18,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Ada
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Decorator", "StructuralDesignPattern-Decorator\StructuralDesignPattern-Decorator.csproj", "{FE217056-121A-4DF1-882A-26E39378E34F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPattern-Builder", "CreationalDesignPattern-Builder\CreationalDesignPattern-Builder.csproj", "{7CAB84A0-D263-4412-AA90-14CA5F65C8C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalDesignPattern-Builder", "CreationalDesignPattern-Builder\CreationalDesignPattern-Builder.csproj", "{7CAB84A0-D263-4412-AA90-14CA5F65C8C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPattern-Prototype", "CreationalDesignPattern-Prototype\CreationalDesignPattern-Prototype.csproj", "{594378B3-8D47-4341-9795-E48B6FCB2655}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,6 +52,10 @@ Global
 		{7CAB84A0-D263-4412-AA90-14CA5F65C8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CAB84A0-D263-4412-AA90-14CA5F65C8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CAB84A0-D263-4412-AA90-14CA5F65C8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594378B3-8D47-4341-9795-E48B6FCB2655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594378B3-8D47-4341-9795-E48B6FCB2655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594378B3-8D47-4341-9795-E48B6FCB2655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594378B3-8D47-4341-9795-E48B6FCB2655}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
