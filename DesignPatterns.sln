@@ -20,7 +20,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Dec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalDesignPattern-Builder", "CreationalDesignPattern-Builder\CreationalDesignPattern-Builder.csproj", "{7CAB84A0-D263-4412-AA90-14CA5F65C8C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPattern-Prototype", "CreationalDesignPattern-Prototype\CreationalDesignPattern-Prototype.csproj", "{594378B3-8D47-4341-9795-E48B6FCB2655}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalDesignPattern-Prototype", "CreationalDesignPattern-Prototype\CreationalDesignPattern-Prototype.csproj", "{594378B3-8D47-4341-9795-E48B6FCB2655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralDesignPattern-Command", "BehavioralDesignPattern-Command\BehavioralDesignPattern-Command.csproj", "{A9306046-1B1C-4624-8585-0B6E27765702}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +58,10 @@ Global
 		{594378B3-8D47-4341-9795-E48B6FCB2655}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{594378B3-8D47-4341-9795-E48B6FCB2655}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{594378B3-8D47-4341-9795-E48B6FCB2655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9306046-1B1C-4624-8585-0B6E27765702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9306046-1B1C-4624-8585-0B6E27765702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9306046-1B1C-4624-8585-0B6E27765702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9306046-1B1C-4624-8585-0B6E27765702}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
