@@ -7,5 +7,10 @@ var emailNotification = new EmailNotification();
 Console.WriteLine(emailNotification.Send());
 Console.WriteLine();
 
-var smsAndEmailNotification = new SMSNotificationDecorator(emailNotification);
-Console.WriteLine(smsAndEmailNotification.Send());
+var smsNotification = new SMSNotificationDecorator(emailNotification);
+Console.WriteLine(smsNotification.Send());
+Console.WriteLine();
+
+var slackNotification = new SlackNotificationDecorator(smsNotification);
+Console.WriteLine(slackNotification.Send());
+Console.WriteLine();
