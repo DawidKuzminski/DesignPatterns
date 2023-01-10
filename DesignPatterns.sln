@@ -14,8 +14,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalDesignPattern-Singleton", "CreationalDesignPattern-Singleton\CreationalDesignPattern-Singleton.csproj", "{DDDB66C1-1397-4F70-9D30-302B3976280F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Adapter", "BehavioralDesignPattern-Adapter\StructuralDesignPattern-Adapter.csproj", "{82C51A49-3F5D-47A7-AD2C-63AC68F4AAA8}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Decorator", "StructuralDesignPattern-Decorator\StructuralDesignPattern-Decorator.csproj", "{FE217056-121A-4DF1-882A-26E39378E34F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalDesignPattern-Builder", "CreationalDesignPattern-Builder\CreationalDesignPattern-Builder.csproj", "{7CAB84A0-D263-4412-AA90-14CA5F65C8C7}"
@@ -26,7 +24,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralDesignPattern-Com
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralDesignPattern-ChainOfResponsibility", "BehavioralDesignPattern-ChainOfResponsibility\BehavioralDesignPattern-ChainOfResponsibility.csproj", "{DEDCF47C-E538-4526-B077-5678F26365E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPattern-Proxy", "StructuralDesignPattern-Proxy\StructuralDesignPattern-Proxy.csproj", "{902DCA5B-9BE8-4661-810F-F5E46A52E79B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Proxy", "StructuralDesignPattern-Proxy\StructuralDesignPattern-Proxy.csproj", "{902DCA5B-9BE8-4661-810F-F5E46A52E79B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Adapter", "StructuralDesignPattern-Adapter\StructuralDesignPattern-Adapter.csproj", "{911F7F6C-87CB-4BA1-80D4-E6ECEFC46634}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,10 +46,6 @@ Global
 		{DDDB66C1-1397-4F70-9D30-302B3976280F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDDB66C1-1397-4F70-9D30-302B3976280F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDDB66C1-1397-4F70-9D30-302B3976280F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{82C51A49-3F5D-47A7-AD2C-63AC68F4AAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82C51A49-3F5D-47A7-AD2C-63AC68F4AAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82C51A49-3F5D-47A7-AD2C-63AC68F4AAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82C51A49-3F5D-47A7-AD2C-63AC68F4AAA8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FE217056-121A-4DF1-882A-26E39378E34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FE217056-121A-4DF1-882A-26E39378E34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE217056-121A-4DF1-882A-26E39378E34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -74,6 +70,10 @@ Global
 		{902DCA5B-9BE8-4661-810F-F5E46A52E79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{902DCA5B-9BE8-4661-810F-F5E46A52E79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{902DCA5B-9BE8-4661-810F-F5E46A52E79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911F7F6C-87CB-4BA1-80D4-E6ECEFC46634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911F7F6C-87CB-4BA1-80D4-E6ECEFC46634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911F7F6C-87CB-4BA1-80D4-E6ECEFC46634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911F7F6C-87CB-4BA1-80D4-E6ECEFC46634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
