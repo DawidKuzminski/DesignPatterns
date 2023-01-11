@@ -28,6 +28,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Adapter", "StructuralDesignPattern-Adapter\StructuralDesignPattern-Adapter.csproj", "{911F7F6C-87CB-4BA1-80D4-E6ECEFC46634}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralDesignPattern-State", "BehavioralDesignPattern-State\BehavioralDesignPattern-State.csproj", "{0ED386BA-321F-4112-9E03-C8B8FAEEA015}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{911F7F6C-87CB-4BA1-80D4-E6ECEFC46634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{911F7F6C-87CB-4BA1-80D4-E6ECEFC46634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{911F7F6C-87CB-4BA1-80D4-E6ECEFC46634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED386BA-321F-4112-9E03-C8B8FAEEA015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED386BA-321F-4112-9E03-C8B8FAEEA015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED386BA-321F-4112-9E03-C8B8FAEEA015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED386BA-321F-4112-9E03-C8B8FAEEA015}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
