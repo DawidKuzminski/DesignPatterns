@@ -30,7 +30,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Ada
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralDesignPattern-State", "BehavioralDesignPattern-State\BehavioralDesignPattern-State.csproj", "{0ED386BA-321F-4112-9E03-C8B8FAEEA015}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralDesignPattern-Mediator", "BehavioralDesignPattern-Mediator\BehavioralDesignPattern-Mediator.csproj", "{956F804D-B200-47F5-AF5E-3870FD1616AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralDesignPattern-Mediator", "BehavioralDesignPattern-Mediator\BehavioralDesignPattern-Mediator.csproj", "{956F804D-B200-47F5-AF5E-3870FD1616AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPattern-Bridge", "StructuralDesignPattern-Bridge\StructuralDesignPattern-Bridge.csproj", "{4424AF6B-008B-4B44-9B95-DA04FC670F1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,6 +88,10 @@ Global
 		{956F804D-B200-47F5-AF5E-3870FD1616AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{956F804D-B200-47F5-AF5E-3870FD1616AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{956F804D-B200-47F5-AF5E-3870FD1616AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4424AF6B-008B-4B44-9B95-DA04FC670F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4424AF6B-008B-4B44-9B95-DA04FC670F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4424AF6B-008B-4B44-9B95-DA04FC670F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4424AF6B-008B-4B44-9B95-DA04FC670F1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
