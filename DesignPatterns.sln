@@ -44,7 +44,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralDesignPattern-Vis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralDesignPattern-Iterator", "BehavioralDesignPattern-Iterator\BehavioralDesignPattern-Iterator.csproj", "{160E4458-362C-47AE-935A-1359AFFF20A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralDesignPattern-Memento", "BehavioralDesignPattern-Memento\BehavioralDesignPattern-Memento.csproj", "{347048AD-C824-4627-A57C-ED383E1CA830}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralDesignPattern-Memento", "BehavioralDesignPattern-Memento\BehavioralDesignPattern-Memento.csproj", "{347048AD-C824-4627-A57C-ED383E1CA830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralDesignPattern-Observer", "BehavioralDesignPattern-Observer\BehavioralDesignPattern-Observer.csproj", "{4386AF99-2E31-4A6B-9FE2-92A5533AE757}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -128,6 +130,10 @@ Global
 		{347048AD-C824-4627-A57C-ED383E1CA830}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{347048AD-C824-4627-A57C-ED383E1CA830}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{347048AD-C824-4627-A57C-ED383E1CA830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4386AF99-2E31-4A6B-9FE2-92A5533AE757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4386AF99-2E31-4A6B-9FE2-92A5533AE757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4386AF99-2E31-4A6B-9FE2-92A5533AE757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4386AF99-2E31-4A6B-9FE2-92A5533AE757}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
