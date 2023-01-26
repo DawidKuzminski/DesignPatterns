@@ -48,7 +48,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralDesignPattern-Mem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehavioralDesignPattern-Observer", "BehavioralDesignPattern-Observer\BehavioralDesignPattern-Observer.csproj", "{4386AF99-2E31-4A6B-9FE2-92A5533AE757}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPattern-Flyweight", "StructuralDesignPattern-Flyweight\StructuralDesignPattern-Flyweight.csproj", "{90904769-3B63-4AAB-9830-EF0870E2C037}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructuralDesignPattern-Flyweight", "StructuralDesignPattern-Flyweight\StructuralDesignPattern-Flyweight.csproj", "{90904769-3B63-4AAB-9830-EF0870E2C037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrukturalDesignPattern-Composite", "StrukturalDesignPattern-Composite\StrukturalDesignPattern-Composite.csproj", "{D79E52CF-0592-496B-B4C3-CCB45B5653FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -140,6 +142,10 @@ Global
 		{90904769-3B63-4AAB-9830-EF0870E2C037}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90904769-3B63-4AAB-9830-EF0870E2C037}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90904769-3B63-4AAB-9830-EF0870E2C037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79E52CF-0592-496B-B4C3-CCB45B5653FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79E52CF-0592-496B-B4C3-CCB45B5653FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79E52CF-0592-496B-B4C3-CCB45B5653FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79E52CF-0592-496B-B4C3-CCB45B5653FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
